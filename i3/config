@@ -222,7 +222,7 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id dex --autostart --environment i3
 
 # set wallpaper
-exec nitrogen --set-scaled /home/kinas/Downloads/space2.png
+exec nitrogen --set-scaled /home/kinas/space2.png
 
 # set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
